@@ -8,3 +8,11 @@ Rails 12-12
 臨摹於 Mackenzie Child
 
 Demo[Blog](https://enigmatic-hamlet-15463.herokuapp.com/)
+
+Runy 2.7.0 
+
+Rails 6.0.0
+
+heroku 18
+
+paperclip 
